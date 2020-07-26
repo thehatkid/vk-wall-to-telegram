@@ -1,6 +1,6 @@
 # Ретраслятор стены сообществ ВКонтакте в Телеграм канал
 
-[![PHP Version](https://img.shields.io/badge/php%20version-%3E%3D%205.4-8892BF)]()
+[![PHP Version](https://img.shields.io/badge/php%20version-%3E%3D%205.6-8892BF)]()
 [![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-1f425f)]()
 
 ---
